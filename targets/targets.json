@@ -639,6 +639,7 @@
         "inherits": ["K64F"],
         "extra_labels_add": ["K64F"],
         "extra_labels_remove": ["FRDM"],
+        "supported_form_factors": [],
         "detect_code": ["3105"]
     },
     "EV_COG_AD4050LZ": {
